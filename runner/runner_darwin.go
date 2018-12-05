@@ -1,5 +1,3 @@
-// +build darwin bsd
-
 package runner
 
 import (
